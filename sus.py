@@ -37,7 +37,12 @@ label.pack()
 
 def on_exit():
     ""
+def prevent_minimize(event=None):
+    if root.state() == "iconic":
+        root.state("normal")
 
+root.bind("<Unmap>", prevent_minimize)
+root.resizable(False, False)
 root.protocol("WM_DELETE_WINDOW", on_exit)
 root.geometry(
     f"{frames[0].width()}x{frames[0].height()}+"
