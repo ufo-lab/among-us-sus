@@ -1,11 +1,11 @@
 sus.py is a fun program that plays the Among Us theme song while displaying a gif on the screen. Perfect for pranks and memes!
 
-#Easy to Use**: Simply run the program and enjoy the fun!
+## Easy to Use: Simply run the program and enjoy the fun!
 
 ## Installation
 
-1. **Download the `sus.exe` file** from the [Releases](https://github.com/ufo-lab/sus.exe/releases) section.
-2. Place the file in any folder of your choice.
+1. **Download the `sus.exe` file** from the [Releases](https://github.com/ufo-lab/among-us-sus/releases) section.
+2. **run the program.
 
 ## Usage
 
