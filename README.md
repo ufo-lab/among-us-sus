@@ -1,6 +1,5 @@
-sus.py is a fun program that plays the Among Us theme song while displaying a gif on the screen. Perfect for pranks and memes!
-
-## Easy to Use: Simply run the program and enjoy the fun!
+## What is sus.py/.exe
+  -sus.py/.exe is a fun program that plays the Among Us theme song while displaying a gif on the screen. Perfect for pranks and memes!
 
 ## Installation
 
@@ -10,15 +9,15 @@ sus.py is a fun program that plays the Among Us theme song while displaying a gi
 ## Usage
 
 1. Double-click the `sus.exe` file.
-2. Enjoy the Among Us experience! 😎
+2. Enjoy the Among Us experience! ඞ
 
 ### System Requirements
 - Windows 7/8/10/11
 - Speakers or headphones for audio playback
 
 ## Warning
-- The program uses full-screen mode, so avoid running it during important tasks.
-- The gif and music start abruptly, so use it responsibly and avoid disturbing others.
+- The Windows Antivirus detects it because it's a pyw file, but don't worry it's not a malware trust me :).
+- This is a window that cannot be closed, but don't be scared, you can close through the task manager.
 
 ## Contributions
 Suggestions and improvements are welcome! Feel free to open an [Issue](https://github.com/yourusername/sus.exe/issues) or submit a Pull Request.
