@@ -4,7 +4,7 @@
 ## Installation
 
 1. **Download the `sus.exe` file** from the [Releases](https://github.com/ufo-lab/among-us-sus/releases) section.
-2.   Run the program.
+2. **Run the program.
 
 ## Usage
 
