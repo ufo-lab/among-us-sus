@@ -20,7 +20,7 @@
 - This is a window that cannot be closed, but don't be scared, you can close through the task manager.
 
 ## Contributions
-Suggestions and improvements are welcome! Feel free to open an [Issue](https://github.com/yourusername/sus.exe/issues) or submit a Pull Request.
+Suggestions and improvements are welcome! Feel free to open an [Issue](https://github.com/ufo-lab/sus.exe/issues) or submit a Pull Request.
 
 ---
 
